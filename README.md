@@ -57,7 +57,7 @@ Usuários cadastrados:
 
 ## Documentação
 
-Para mais detalhes, consulte o documento de documentação simplificada no repositório, contendo fluxogramas e descrição detalhada dos fluxos e telas do sistema.
+Para mais detalhes, consulte o documento de documentação simplificada no repositório, contendo fluxogramas, vídeo de apresentação e descrição detalhada dos fluxos e telas do sistema.
 
 ---
 
