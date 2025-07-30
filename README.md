@@ -30,14 +30,14 @@ O sistema permite a gestão e visualização de postagens por dois perfis princi
 
 ---
 
-## Como usar
+<!-- ## Como usar
 
 Acesse a aplicação pelo link:  
 https://personal-jufqcooy.outsystemscloud.com/TechChallenge/
 
 Usuários cadastrados:  
 - Professor (senha inicial: 12345!)  
-- Aluno (senha inicial: 12345!)
+- Aluno (senha inicial: 12345!) -->
 
 ## Funcionalidades
 
