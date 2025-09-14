@@ -60,15 +60,3 @@ Usuários cadastrados:
 Para mais detalhes, consulte o documento de documentação simplificada no repositório, contendo fluxogramas, vídeo de apresentação e descrição detalhada dos fluxos e telas do sistema.
 
 ---
-
-## Contato
-
-Grupo de desenvolvimento:  
-Victor A. Lanni - RM364305  
-Rômulo Teixeira - RM361516  
-Arthur Roberto - RM365020  
-Luan Marques - RM362725  
-
----
-
-Obrigado por acessar nosso projeto!
